@@ -1,4 +1,4 @@
-## Hola, soy [Ruben Mendoza] 👋
+## Hola, soy Ruben Mendoza 👋
 
 ### Estudiante de Ingeniería Informática | Entusiasta de la tecnología
 
@@ -13,7 +13,7 @@
 
 ## Sobre mí
 
-Soy estudiante de Ingeniería Informática con interés en el desarrollo de software, los sistemas operativos y la resolución de problemas mediante tecnología. Actualmente estoy cursando **Sistemas Operativos II** y construyendo proyectos para fortalecer mis habilidades técnicas.
+  Soy estudiante de Ingeniería Informática con interés en el desarrollo de software, los sistemas operativos y la resolución de problemas mediante tecnología. Actualmente estoy cursando **Sistemas Operativos II** y construyendo proyectos para fortalecer mis habilidades técnicas.
 
 - Aprendiendo a diseñar soluciones claras, mantenibles y orientadas a resultados.
 - Interesado en programación, sistemas, automatización y buenas prácticas de desarrollo.
@@ -41,13 +41,6 @@ Soy estudiante de Ingeniería Informática con interés en el desarrollo de soft
 - Profundizando en procesos, memoria, concurrencia y administración de sistemas operativos.
 - Practicando el desarrollo web con **HTML, CSS y JavaScript**.
 - Creando proyectos personales y académicos para documentar mi evolución.
-
-## Estadísticas de GitHub
-
-<p>
-	<img height="165" src="https://github-readme-stats.vercel.app/api?username=RubenMen49&show_icons=true&theme=transparent&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-	<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenMen49&layout=compact&theme=transparent&hide_border=true&locale=es" alt="Lenguajes más usados" />
-</p>
 
 ## Más allá del código
 
