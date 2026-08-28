@@ -13,7 +13,7 @@
 
 ## Sobre mí
 
-  Soy estudiante de Ingeniería Informática con interés en el desarrollo de software, los sistemas operativos y la resolución de problemas mediante tecnología. Actualmente estoy cursando **Sistemas Operativos II** y construyendo proyectos para fortalecer mis habilidades técnicas.
+  Soy estudiante de Ingeniería Informática con interés en el desarrollo de software, seguridad de la información, los sistemas operativos y la resolución de problemas mediante tecnología. Actualmente estoy cursando **Sistemas Operativos II** y construyendo proyectos para fortalecer mis habilidades técnicas.
 
 - Aprendiendo a diseñar soluciones claras, mantenibles y orientadas a resultados.
 - Interesado en programación, sistemas, automatización y buenas prácticas de desarrollo.
@@ -37,7 +37,7 @@
 
 ## En qué estoy trabajando
 
-- Fortaleciendo mis fundamentos de **C++, Java y Python**.
+- Fortaleciendo mis fundamentos de **C, C#, C++, Java y Python**.
 - Profundizando en procesos, memoria, concurrencia y administración de sistemas operativos.
 - Practicando el desarrollo web con **HTML, CSS y JavaScript**.
 - Creando proyectos personales y académicos para documentar mi evolución.
