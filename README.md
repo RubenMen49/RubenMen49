@@ -48,13 +48,6 @@
 - 📺 Disfruto descubrir series y anime, especialmente historias relacionadas con tecnología e inteligencia artificial.
 - 📚 Mi objetivo es mantener un aprendizaje constante y compartir lo que voy construyendo.
 
-## Conectemos
-
-<p>
-	<a href="https://github.com/RubenMen49"><img src="https://img.shields.io/badge/GitHub-RubenMen49-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-	<a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Correo-contactarme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo electrónico" /></a>
-</p>
-
 ---
 
 <p align="center"><i>"El aprendizaje constante transforma los problemas en soluciones."</i></p>
