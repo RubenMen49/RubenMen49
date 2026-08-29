@@ -24,7 +24,7 @@
 ### Lenguajes
 
 <p>
-	<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css" alt="C++, Java, Python, JavaScript, HTML y CSS" />
+	<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css" alt="C++, Java, C, Python, JavaScript, HTML y CSS" />
 </p>
 
 ### Herramientas, sistemas y bases de datos
@@ -40,13 +40,12 @@
 - Fortaleciendo mis fundamentos de **C, C#, C++, Java y Python**.
 - Profundizando en procesos, memoria, concurrencia y administración de sistemas operativos.
 - Practicando el desarrollo web con **HTML, CSS y JavaScript**.
-- Creando proyectos personales y académicos para documentar mi evolución.
 
 ## Más allá del código
 
-- 🎮 Me gustan los videojuegos y los rompecabezas.
-- 📺 Disfruto descubrir series y anime, especialmente historias relacionadas con tecnología e inteligencia artificial.
-- 📚 Mi objetivo es mantener un aprendizaje constante y compartir lo que voy construyendo.
+- 🎮 Me apasionan los videojuegos y los desafíos de lógica, como los rompecabezas, que ponen a prueba la creatividad y la estrategia.  
+- 📺 Disfruto explorar nuevas series y anime, especialmente aquellas que abordan temas de tecnología, inteligencia artificial y mundos futuristas.  
+- 📚 Creo en el aprendizaje constante como motor de crecimiento personal y profesional.
 
 ---
 
