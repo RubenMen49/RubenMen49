@@ -2,15 +2,6 @@
 
 ### Estudiante de Ingeniería Informática | Entusiasta de la tecnología
 
-<p align="left">
-	<a href="https://github.com/RubenMen49">
-		<img src="https://komarev.com/ghpvc/?username=RubenMen49&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Visitas al perfil" />
-	</a>
-	<a href="https://github.com/RubenMen49?tab=followers">
-		<img src="https://img.shields.io/github/followers/RubenMen49?label=Seguidores&style=flat&color=0e75b6" alt="Seguidores" />
-	</a>
-</p>
-
 ## Sobre mí
 
   Soy estudiante de Ingeniería Informática con interés en el desarrollo de software, seguridad de la información, los sistemas operativos y la resolución de problemas mediante tecnología. Actualmente estoy cursando **Sistemas Operativos II** y construyendo proyectos para fortalecer mis habilidades técnicas.
