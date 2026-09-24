@@ -1,4 +1,4 @@
-## Hola, soy Ruben Mendoza 👋
+## Hola, soy Ruben 👋
 
 ### Estudiante de Ingeniería Informática | Entusiasta de la tecnología
 
